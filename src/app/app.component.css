@@ -102,4 +102,8 @@
     height: 40%;
     width: 50%;
   }
+
+  .overlay{
+    height: 150%;
+  }
 }
